@@ -10,3 +10,25 @@ body{
     font-weight: 400;
     color: #555;
 }
+
+.head-primary{
+    font-size: 5.2rem;
+    font-weight: 700;
+    line-height: 1.05;
+    color: #333;
+}
+
+.hero-description{
+    font-size: 2rem;
+}
+
+.hero{
+    max-width: 130rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.hero-img{
+    width: 100%;
+}
