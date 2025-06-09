@@ -65,7 +65,7 @@ body{
 }
 .btn-outline:hover, .btn-outline:active{
     background-color: #fdf2e9;
-    border: 3px solid white;
+    box-shadow: 0 0 0 3px white;
 }
 
 .hero-img{
