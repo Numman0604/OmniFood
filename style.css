@@ -87,6 +87,11 @@ body{
     color: #cf711f;
 }
 
+.nav-cta{
+    padding: 1.6rem 3.2rem;
+    border-radius: 9px;
+}
+
 /* Hero Section */
 
 .section-hero{
