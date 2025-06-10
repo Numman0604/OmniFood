@@ -85,3 +85,7 @@ body{
 .delivered-imgs{
     display: flex;
 }
+
+.delivered-imgs img{
+    height: 6.4rem;
+}
