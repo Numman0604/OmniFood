@@ -80,6 +80,7 @@ body{
 
 .delivered-meals{
     display: flex;
+    margin-top: 8rem;
 }
 
 .delivered-imgs{
