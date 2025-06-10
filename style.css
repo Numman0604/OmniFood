@@ -75,6 +75,10 @@ body{
     gap: 3.2rem;
 }
 
+.nav-link:link, .nav-link:visited{
+    text-decoration: none;
+}
+
 
 /* Hero Section */
 
