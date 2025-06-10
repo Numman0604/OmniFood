@@ -81,3 +81,7 @@ body{
 .delivered-meals{
     display: flex;
 }
+
+.delivered-imgs{
+    display: flex;
+}
