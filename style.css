@@ -56,6 +56,10 @@ body{
 
 /* Header Section */
 
+.header{
+    display: flex;
+}
+
 .logo{
     height: 2.4rem;
 }
