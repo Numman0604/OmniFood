@@ -77,3 +77,7 @@ body{
 .hero-img{
     width: 100%;
 }
+
+.delivered-meals{
+    display: flex;
+}
