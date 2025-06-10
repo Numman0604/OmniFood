@@ -87,7 +87,7 @@ body{
     color: #cf711f;
 }
 
-.nav-cta{
+.nav-cta:link,.nav-cta:visited{
     padding: 1.6rem 3.2rem;
     border-radius: 9px;
 }
