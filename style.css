@@ -84,7 +84,7 @@ body{
 }
 
 .nav-link:hover, .nav-link:active{
-
+    color: #cf711f;
 }
 
 /* Hero Section */
