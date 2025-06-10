@@ -56,6 +56,11 @@ body{
 
 /* Header Section */
 
+.logo{
+    height: 2.4rem;
+}
+
+
 /* Hero Section */
 
 .section-hero{
@@ -79,9 +84,6 @@ body{
     letter-spacing: -0.5px;
     margin-bottom: 4.8rem;
 }
-
-
-
 
 .hero-img{
     width: 100%;
