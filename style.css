@@ -105,3 +105,7 @@ body{
 .delivered-imgs img:last-child{
     margin: 0;
 }
+
+.delivered-text span{
+    color: #e67e22;
+}
