@@ -73,6 +73,7 @@ body{
     list-style: none;
     display: flex;
     gap: 3.2rem;
+    align-items: center;
     transition: all 0.3s;
 }
 
