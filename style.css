@@ -100,3 +100,7 @@ body{
     font-size: 1.8rem;
     font-weight: 600;
 }
+
+.delivered-imgs img:last-child{
+    margin: 0;
+}
