@@ -49,6 +49,11 @@ body{
     background-color: #fdf2e9;
     box-shadow: inset 0 0 0 3px white;
 }
+
+.margin-right-sm{
+    margin-right: 1.6rem !important;
+}
+
 /* Header Section */
 
 /* Hero Section */
@@ -76,9 +81,7 @@ body{
 }
 
 
-.margin-right-sm{
-    margin-right: 1.6rem !important;
-}
+
 
 .hero-img{
     width: 100%;
