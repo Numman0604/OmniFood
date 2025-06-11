@@ -14,7 +14,9 @@ body{
 }
 /* General Components */
 
-
+.container{
+    max-width: 120rem;
+}
 
 
 
