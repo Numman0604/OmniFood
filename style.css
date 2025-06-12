@@ -47,6 +47,7 @@ body{
 
 .sub-heading{
     display: block;
+    font-size: 2rem;
 }
 
 .btn:link, .btn:visited{
