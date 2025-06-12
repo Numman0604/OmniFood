@@ -51,6 +51,7 @@ body{
     font-weight: 500;
     color: #cf711f;
     text-transform: uppercase;
+    margin-bottom: 1.6rem;
 }
 
 .btn:link, .btn:visited{
