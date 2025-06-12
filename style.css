@@ -45,6 +45,10 @@ body{
     line-height: 1.2;
 }
 
+.sub-heading{
+    display: block;
+}
+
 .btn:link, .btn:visited{
     background-color: #e67e22;
     font-size: 2rem;
