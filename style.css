@@ -224,6 +224,7 @@ body{
 .step-img-box{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .step-img{
