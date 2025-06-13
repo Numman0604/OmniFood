@@ -221,6 +221,10 @@ body{
     line-height: 1.8;
 }
 
+.step-img-box{
+    display: flex;
+}
+
 .step-img{
     width: 30%;
 }
