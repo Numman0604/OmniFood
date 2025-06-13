@@ -206,6 +206,7 @@ body{
 .step-number{
     font-size: 9.8rem;
     font-weight: 600;
+    color: #555;
 }
 
 .step-img{
