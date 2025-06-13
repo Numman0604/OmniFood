@@ -31,6 +31,10 @@ body{
     grid-template-columns: repeat(2,1fr);
 }
 
+.grid-centre{
+    align-items: center;
+}
+
 .head-primary,.heading-secondary,.heading-tertiary{
     font-size: 5.2rem;
     font-weight: 700;
