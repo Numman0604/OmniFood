@@ -223,6 +223,7 @@ body{
 
 .step-img-box{
     display: flex;
+    align-items: center;
 }
 
 .step-img{
