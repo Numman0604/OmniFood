@@ -312,6 +312,8 @@ body{
 
 .meal-attributes{
     list-style: none;
+    display: flex;
+    flex-direction: column;
 }
 
 .meal-attribute{
