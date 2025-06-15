@@ -309,6 +309,14 @@ body{
     font-weight: 600;
 }
 
+.meal-attributes{
+    list-style: none;
+}
+
+.meal-attribute{
+    font-size: 1.8rem;
+}
+
 .meals-img{
     width: 100%;
 }
