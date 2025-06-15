@@ -226,6 +226,7 @@ body{
 
 .logos{
     display: flex;
+    justify-content: space-between;
 }
 
 .featured-img{
