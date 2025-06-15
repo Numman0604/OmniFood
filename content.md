@@ -53,7 +53,7 @@ Kid-friendly
 
 Meal 1: Japanese Gyozas
 
-- Category: Vegetarian
+- Japanese Gyozas
 - Calories: 650
 - NutriScore (Registered): 74
 - Average rating: 4.9
