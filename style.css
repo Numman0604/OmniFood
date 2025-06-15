@@ -231,6 +231,7 @@ body{
 
 .featured-img{
     height: 3.2rem;
+    filter: brightness(0);
 }
 
 /* Section How it Works */
