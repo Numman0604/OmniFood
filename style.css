@@ -317,10 +317,14 @@ body{
     gap: 2rem;
 }
 
-.meal-attribute {
+.meal-attribute span{
     font-size: 1.8rem;
 }
 
 .meals-img{
     width: 100%;
+}
+
+.meal-attribute ion-icon{
+    font-size: 1.8rem;
 }
