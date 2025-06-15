@@ -214,6 +214,7 @@ body{
 .heading-featured{
     font-size: 1.4rem;
     text-transform: uppercase;
+    letter-spacing: 0.75px;
 }
 
 /* Section How it Works */
