@@ -303,6 +303,10 @@ body{
     padding: 9.6rem 0;
 }
 
+.meal-title{
+    font-size: 2rem;
+}
+
 .meals-img{
     width: 100%;
 }
