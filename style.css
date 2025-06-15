@@ -233,6 +233,10 @@ body{
     justify-content: center;
 }
 
+.step-img-box::before{
+    
+}
+
 .step-img{
     width: 35%;
 }
