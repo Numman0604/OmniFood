@@ -213,6 +213,7 @@ body{
 
 .heading-featured{
     font-size: 1.4rem;
+    text-transform: uppercase;
 }
 
 /* Section How it Works */
