@@ -302,3 +302,7 @@ body{
 .section-meals{
     padding: 9.6rem 0;
 }
+
+.meals-img{
+    width: 100%;
+}
