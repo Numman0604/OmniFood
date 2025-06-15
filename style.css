@@ -248,6 +248,8 @@ body{
     transform: translate(-50%,-50%);
 }
 
+.step-img-box::after{}
+
 .step-img{
     width: 35%;
     z-index: 1;
