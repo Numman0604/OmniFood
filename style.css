@@ -236,6 +236,7 @@ body{
 .step-img-box::before{
     content: "";
     display: block;
+    width: 60%;
 }
 
 .step-img{
