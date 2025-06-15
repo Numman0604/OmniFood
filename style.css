@@ -228,6 +228,10 @@ body{
     display: flex;
 }
 
+.featured-img{
+    height: 3.2rem;
+}
+
 /* Section How it Works */
 
 .section-how{
