@@ -298,3 +298,7 @@ body{
 }
 
 /* Meals Section */
+
+.section-meals{
+    padding: 9.6rem 0 3.2rem 0;
+}
