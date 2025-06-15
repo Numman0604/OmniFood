@@ -237,6 +237,7 @@ body{
     content: "";
     display: block;
     width: 60%;
+    height: 60%;
 }
 
 .step-img{
