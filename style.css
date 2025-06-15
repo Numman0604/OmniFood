@@ -252,6 +252,7 @@ body{
     content: "";
     display: block;
     width: 50%;
+    padding-bottom: 50%;
     border-radius: 50%;
     position: absolute;
     top: 50%;
