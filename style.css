@@ -211,6 +211,10 @@ body{
 
 /* Featured Section */
 
+.heading-featured{
+    font-size: 1.4rem;
+}
+
 /* Section How it Works */
 
 .section-how{
