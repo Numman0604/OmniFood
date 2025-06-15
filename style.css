@@ -251,6 +251,7 @@ body{
 .step-img-box::after{
     content: "";
     display: block;
+    width: 50%;
     border-radius: 50%;
     position: absolute;
     top: 50%;
