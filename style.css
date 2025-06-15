@@ -240,6 +240,7 @@ body{
     /* height: 60%; */
     padding-bottom: 60%;
     background-color: #fdf2e9;
+    position: absolute;
 }
 
 .step-img{
