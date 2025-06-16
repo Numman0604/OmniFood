@@ -378,3 +378,7 @@ strong{
 .meals-img{
     width: 100%;
 }
+
+.list{
+    list-style: none;
+}
