@@ -396,6 +396,10 @@ strong{
     color: #e67e22;
 }
 
+.all-recipes{
+    text-align: center;
+}
+
 .list-items{
     display: flex;
     align-items: center;
