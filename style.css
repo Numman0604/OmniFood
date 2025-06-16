@@ -389,6 +389,11 @@ strong{
     color: #e67e22;
 }
 
+.list-items{
+    display: flex;
+    align-items: center;
+}
+
 .list-items span{
     font-size: 1.8rem;
 }
