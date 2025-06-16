@@ -325,6 +325,7 @@ body{
 .meal-icon{
     height: 2.4rem;
     width: 2.4rem;
+    stroke: #e67e22;
 }
 
 .meals-img{
