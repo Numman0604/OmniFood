@@ -392,6 +392,7 @@ strong{
 .list-items{
     display: flex;
     align-items: center;
+    gap: 1.6rem;
 }
 
 .list-items span{
