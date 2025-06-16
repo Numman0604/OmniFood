@@ -310,6 +310,10 @@ body{
     margin-bottom: 3.2rem;
 }
 
+.tag{
+    display: inline-block;
+}
+
 .meal-attributes{
     list-style: none;
     display: flex;
