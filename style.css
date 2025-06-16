@@ -322,6 +322,11 @@ body{
     font-size: 1.8rem;
 }
 
+.meal-icon{
+    height: 2.4rem;
+    width: 2.4rem;
+}
+
 .meals-img{
     width: 100%;
 }
