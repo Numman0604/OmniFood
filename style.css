@@ -108,6 +108,10 @@ body{
     margin-bottom: 4.8rem !important;
 }
 
+.centre-text{
+    text-align: center;
+}
+
 /* Header Section */
 
 .header{
