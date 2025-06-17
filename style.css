@@ -410,3 +410,7 @@ strong{
 .list-items span{
     font-size: 1.8rem;
 }
+
+.link:link,.link:visited{
+    color: #e67e22;
+}
