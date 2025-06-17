@@ -414,4 +414,5 @@ strong{
 .link:link,.link:visited{
     color: #e67e22;
     text-decoration: none;
+    border-bottom: 1px solid currentColor;
 }
