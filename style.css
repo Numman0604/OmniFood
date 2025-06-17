@@ -421,4 +421,5 @@ strong{
 
 .link:hover,.link:active{
     color: #cf711f;
+    border-bottom: 1px solid transparent;
 }
