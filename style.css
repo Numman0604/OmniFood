@@ -483,6 +483,7 @@ strong{
 .gallery-img{
     display: block;
     width: 100%;
+    transition: all 0.5s;
 }
 
 .gallery-img:hover{
