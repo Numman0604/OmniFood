@@ -463,3 +463,7 @@ strong{
     font-size: 1.6rem;
     color: #777;
 }
+
+.gallery-img{
+    display: block;
+}
