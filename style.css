@@ -441,9 +441,13 @@ strong{
     background-color: #fdf2e9;
 }
 
+.testimonial-container{
+      padding: 9.6rem;
+}
+
 .testimonials{
     display: grid;
-    padding: 9.6rem;
+
     grid-template-columns: 1fr 1fr;
     gap: 4.8rem;
 }
