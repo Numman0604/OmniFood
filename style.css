@@ -495,3 +495,7 @@ strong{
 }
 
 /* Price Section */
+
+.section-price{
+    padding: 9.6rem 0;
+}
