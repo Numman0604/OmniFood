@@ -484,3 +484,7 @@ strong{
     display: block;
     width: 100%;
 }
+
+.gallery-img:hover{
+    transform: translateY(-1.2rem);
+}
