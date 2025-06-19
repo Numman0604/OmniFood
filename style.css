@@ -500,4 +500,6 @@ strong{
     padding: 9.6rem 0;
 }
 
-.plan-header{}
+.plan-header{
+    text-align: center;
+}
