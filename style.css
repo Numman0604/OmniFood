@@ -507,6 +507,10 @@ strong{
     width: 75%;
 }
 
+.starter{
+    justify-self: end;
+}
+
 .plan-align{
     padding: 4.8rem;
     background-color: #fdf2e9;
