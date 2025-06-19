@@ -513,15 +513,15 @@ strong{
     letter-spacing: 0.75;
 }
 
-.plan-price{
+.plan-price, .plan-price span{
     font-size: 7.8rem;
     font-weight: 600;
     color: #333;
 }
 
 .plan-text{
-    font-size: 1.8rem;
-    line-height: 1.8;
+    font-size: 1.6rem;
+    line-height: 1.6;
 }
 
 .centre-align{
