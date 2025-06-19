@@ -521,13 +521,13 @@ strong{
     content: "Best Value";
     position: absolute;
     top: 6%;
-    right: -7%;
+    right: -18%;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 700;
     background-color: #ffd43b;
     color: #333;
-    padding: 0.8rem 3.2rem; 
+    padding: 0.8rem 8rem; 
     transform: rotate(45deg);
 }
 
