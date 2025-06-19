@@ -506,6 +506,12 @@ strong{
     padding: 4.8rem;
 }
 
+.plan-align{
+    padding: 4.8rem;
+    background-color: #fdf2e9;
+    border-radius: 11px;
+}
+
 
 .plan-header{
     text-align: center;
@@ -539,13 +545,13 @@ strong{
     line-height: 1.6;
 }
 
-.centre-align{
-    margin-top: 3rem;
-    text-align: center;
-    color: #6f6f6f;
-}
 
 .plan-sign-up{
     text-align: center;
     margin-top: 4.8rem;
+    margin-bottom: 0;
+}
+
+.boby{
+    margin-top: 5rem;
 }
