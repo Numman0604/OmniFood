@@ -514,6 +514,7 @@ strong{
 .complete{
     background-color: #fdf2e9;
     position: relative;
+    overflow: hidden;
 }
 
 .complete::after{
