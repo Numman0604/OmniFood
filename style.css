@@ -519,6 +519,8 @@ strong{
 .complete::after{
     content: "Best Value";
     position: absolute;
+    top: 0;
+    right: 0;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 700;
