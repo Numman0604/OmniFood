@@ -515,6 +515,10 @@ strong{
     background-color: #fdf2e9;
 }
 
+.complete::after{
+    content: "Best Value";
+}
+
 .plan-align{
     padding: 4.8rem;
     background-color: #fdf2e9;
