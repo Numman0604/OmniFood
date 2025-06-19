@@ -527,6 +527,7 @@ strong{
     background-color: #ffd43b;
     color: #333;
     padding: 0.8rem 3.2rem; 
+    transform: rotate(45deg);
 }
 
 .plan-align{
