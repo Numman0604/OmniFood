@@ -523,3 +523,8 @@ strong{
     font-size: 1.8rem;
     line-height: 1.8;
 }
+
+.centre-align{
+    margin-top: 3rem;
+    text-align: center;
+}
