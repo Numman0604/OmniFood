@@ -517,6 +517,7 @@ strong{
 
 .complete::after{
     content: "Best Value";
+    position: absolute;
 }
 
 .plan-align{
