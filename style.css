@@ -521,6 +521,11 @@ strong{
     margin-bottom: 1.6rem;
 }
 
+.plan-price span{
+    font-size: 3rem;
+    font-weight: 500;
+}
+
 .plan-text{
     font-size: 1.6rem;
     line-height: 1.6;
