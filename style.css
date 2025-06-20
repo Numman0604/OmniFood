@@ -635,3 +635,7 @@ strong{
     background-image: linear-gradient(to right bottom, #eb984b,#e67e22);
     height: 50rem;
 }
+
+.cta-img-box{
+    background-image: url(img/eating.jpg);
+}
