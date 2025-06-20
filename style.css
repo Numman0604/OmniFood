@@ -628,4 +628,5 @@ strong{
 
 .cta{
     display: grid;
+    grid-template-columns: 2fr fr;
 }
