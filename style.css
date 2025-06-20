@@ -637,5 +637,5 @@ strong{
 }
 
 .cta-img-box{
-    background-image: url(img/eating.jpg);
+    background-image: url('img/eating.jpg');
 }
