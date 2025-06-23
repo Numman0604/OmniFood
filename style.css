@@ -82,9 +82,7 @@ body{
 }
 
 .btn,.btn:link, .btn:visited{
-    background-color: #e67e22;
     font-size: 2rem;
-    color: white;
     display: inline-block;
     padding: 1.6rem 3.2rem;
     font-weight: 600;
