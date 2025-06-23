@@ -691,4 +691,5 @@ strong{
 .btn{
     border: none;
     cursor: pointer;
+    font-family: inherit;
 }
