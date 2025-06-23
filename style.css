@@ -134,8 +134,9 @@ body{
 
 *:focus{
     outline: none;
-    outline: 4px dotted #e67e22;
-    outline-offset: 8px;
+    /* outline: 4px dotted #e67e22;
+    outline-offset: 8px; */
+    box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
 }
 
 /* Header Section */
@@ -709,4 +710,9 @@ strong{
     border: none;
     cursor: pointer;
     font-family: inherit;
+}
+
+.cta *:focus{
+    outline: none;
+    box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.5);
 }
