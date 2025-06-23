@@ -688,3 +688,8 @@ strong{
 .cta-form input::placeholder{
     color: #aaa;
 }
+
+.btn{
+    border: none;
+    cursor: pointer;
+}
