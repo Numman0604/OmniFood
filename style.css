@@ -132,6 +132,10 @@ body{
     text-align: center;
 }
 
+*:focus{
+    outline: none;
+}
+
 /* Header Section */
 
 .header{
