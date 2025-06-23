@@ -81,7 +81,7 @@ body{
     letter-spacing: 0.75px;
 }
 
-.btn:link, .btn:visited{
+.btn,.btn:link, .btn:visited{
     background-color: #e67e22;
     font-size: 2rem;
     color: white;
