@@ -643,6 +643,10 @@ strong{
     background-position: center;
 }
 
+.cta-text{
+    font-size: 1.8rem;
+}
+
 .cta-text-box{
     color: #45260a;
     padding: 6.4rem;
