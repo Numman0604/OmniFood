@@ -629,6 +629,7 @@ strong{
 .cta{
     display: grid;
     grid-template-columns: 2fr 1fr;
+    overflow: hidden;
     /* background-color: #e67e22; */
     box-shadow: 0 3.2rem 6.4rem rgb(0, 0, 0,0.015);
     border-radius: 11px;
