@@ -747,6 +747,10 @@ strong{
     width: 2.4rem;
 }
 
+.copyright{
+    font-size: 1.4rem;
+}
+
 .footer-nav{
     list-style: none;
     display: flex;
