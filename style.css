@@ -760,6 +760,12 @@ strong{
     margin-top: 3.4rem;
 }
 
+.contacts{
+    font-style: none;
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+
 .footer-nav{
     list-style: none;
     display: flex;
