@@ -334,6 +334,11 @@ body{
 .step-img{
     width: 35%;
     z-index: 1;
+    transition: all 0.5s;
+}
+
+.step-img:hover{
+    transform: scale(1.1);
 }
 
 /* Meals Section */
