@@ -742,6 +742,11 @@ strong{
     gap: 2.4rem;
 }
 
+.social-icon{
+    height: 2.4rem;
+    width: 2.4rem;
+}
+
 .footer-nav{
     list-style: none;
     display: flex;
