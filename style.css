@@ -725,6 +725,10 @@ strong{
     padding: 9.6rem 0;
 }
 
+.footer-logo{
+    display: flex;
+}
+
 .footer-heading{
     font-size: 1.8rem;
     font-weight: 500;
