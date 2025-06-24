@@ -805,3 +805,11 @@ strong{
     color: #555;
 }
 
+
+/* Media Queries */
+
+@media(max-width: 84rem){
+   .hero{
+    max-width: 120rem;
+   } 
+}
