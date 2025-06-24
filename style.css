@@ -731,6 +731,12 @@ strong{
     margin-bottom: 4rem;
 }
 
+.social-links{
+    list-style: none;
+    display: flex;
+    gap: 2.4rem;
+}
+
 .footer-nav{
     list-style: none;
     display: flex;
