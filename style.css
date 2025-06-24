@@ -734,6 +734,7 @@ strong{
 .footer-nav{
     list-style: none;
     display: flex;
+    flex-direction: column;
 }
 
 .nav-item:link,.nav-item:visited{
