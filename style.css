@@ -726,7 +726,7 @@ strong{
 }
 
 .footer-logo{
-    display: flex;
+    display: block;
 }
 
 .footer-heading{
