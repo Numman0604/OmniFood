@@ -723,6 +723,7 @@ strong{
 
 .footer{
     padding: 12.8rem 0;
+    border-top: 1px solid #ddd;
 }
 
 .logo{
@@ -797,3 +798,4 @@ strong{
 .nav-item:hover,.nav-item:active{
     color: #555;
 }
+
