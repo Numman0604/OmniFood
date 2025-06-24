@@ -743,3 +743,7 @@ strong{
     font-size: 1.6rem;
     color: #767676;
 }
+
+.nav-item:hover,.nav-item:active{
+    color: #555;
+}
