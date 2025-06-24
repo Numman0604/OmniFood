@@ -733,6 +733,7 @@ strong{
 
 .footer-nav{
     list-style: none;
+    display: flex;
 }
 
 .nav-item:link,.nav-item:visited{
