@@ -89,4 +89,8 @@
     .section-testimonials{
         grid-template-columns: 1fr;
     }
+
+    .gallery{
+    grid-template-columns: repeat(6,1fr) ;
+    }
 }
