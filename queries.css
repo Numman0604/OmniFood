@@ -9,7 +9,7 @@
 
    .gallery{
     grid-template-columns: 1fr 1fr ;
-}
+    }
 }
 
 @media(max-width: 75em){
@@ -84,5 +84,9 @@
     }
     .meal-content{
     padding: 2.4rem 3.2rem 3.2rem 3.2rem;
+    }
+
+    .section-testimonials{
+        grid-template-columns: 1fr;
     }
 }
