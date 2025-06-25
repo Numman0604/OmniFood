@@ -3,7 +3,7 @@
     max-width: 120rem;
    } 
 
-   .heading-primary{
+   .head-primary{
     font-size: 4.4rem;
    }
 
@@ -20,6 +20,10 @@
     .grid{
         column-gap: 4.8rem;
         row-gap: 6.4rem;
+    }
+
+    .head-primary{
+        font-size: 3.2rem;
     }
 
     .heading-secondary{
