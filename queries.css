@@ -16,4 +16,8 @@
     html{
         font-size: 9px;
     }
+
+    .heading-secondary{
+        font-size: 3rem;
+    }
 }
