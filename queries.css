@@ -46,3 +46,9 @@
       padding: 9.6rem 3.2rem;
     } 
 }
+
+@media(max-width: 59em){
+    html{
+        font-size: 8px;
+    }
+}
