@@ -74,4 +74,8 @@
         justify-content: center;
         margin-top: 3.2rem;
     }
+
+    .featured-img{
+        height: 2.4rem;
+    }
 }
