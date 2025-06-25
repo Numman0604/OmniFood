@@ -51,4 +51,8 @@
     html{
         font-size: 8px;
     }
+
+    .hero{
+        grid-template-columns: 1fr;
+    }
 }
