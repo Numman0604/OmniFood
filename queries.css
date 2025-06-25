@@ -67,4 +67,8 @@
     .hero-img-box{
         text-align: center;
     }
+
+    .delivered-meals{
+        justify-content: center;
+    }
 }
