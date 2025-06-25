@@ -17,6 +17,10 @@
         font-size: 9px;
     }
 
+    .grid{
+        column-gap: 4.8rem;
+    }
+
     .heading-secondary{
         font-size: 3.6rem;
     }
