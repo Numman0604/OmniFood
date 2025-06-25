@@ -55,9 +55,16 @@
     .hero{
         grid-template-columns: 1fr;
     }
-    
 
     .hero-img{
         width: 60%;
+    }
+
+    .hero-text-box{
+        text-align: center;
+    }
+
+    .hero-img-box{
+        text-align: center;
     }
 }
