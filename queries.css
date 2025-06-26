@@ -97,4 +97,8 @@
     .cta{
         grid-template-columns: 3fr 2fr;
     }
+
+    .cta-form{
+        grid-template-columns: 1fr;
+    }
 }
