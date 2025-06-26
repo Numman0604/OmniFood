@@ -124,6 +124,7 @@
         pointer-events: none;
         visibility: hidden;
         transition: all 0.5s;
+        transform: translateX(100%);
     }
 
     .nav-open .main-nav{
