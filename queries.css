@@ -105,4 +105,8 @@
     .btn-form{
         margin-top: 1.2rem;
     }
+
+    .btn-mobile{
+        display: block;
+    }
 }
