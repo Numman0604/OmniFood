@@ -176,5 +176,6 @@
 
     .nav-col{
         grid-row: 1;
+        grid-column: span 2;
     }
 }
