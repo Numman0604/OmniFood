@@ -121,4 +121,8 @@
         align-items: center;
         justify-content: center;
     }
+
+    .main-nav-list{
+        flex-direction: column;
+    }
 }
