@@ -201,6 +201,10 @@ body{
     color: #333;
 }
 
+.mobile-icon[name="close-outline"]{
+    display: none;
+}
+
 /* Hero Section */
 
 .section-hero{
