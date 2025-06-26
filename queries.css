@@ -151,3 +151,13 @@
         font-size: 3rem;
     }
 }
+
+@media(max-width: 44em){
+    .grid-3-cols,.grid-4-cols,.grid-5-cols{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .diets{
+        
+    }
+}
