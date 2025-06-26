@@ -132,6 +132,10 @@
         visibility: visible;
     }
 
+    .mobile-icon[name="close-outline"]{
+    display: none;
+}
+
     .main-nav-list{
         flex-direction: column;
         gap: 4.8rem;
