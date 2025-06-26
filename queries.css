@@ -131,6 +131,7 @@
         opacity: 1;
         pointer-events: auto;
         visibility: visible;
+        /* transform: translate(0); */
     }
 
     .nav-open .mobile-icon[name="close-outline"]{
