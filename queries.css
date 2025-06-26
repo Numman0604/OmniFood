@@ -178,4 +178,8 @@
         grid-row: 1;
         grid-column: span 2;
     }
+
+    .logo-col{
+        grid-column: span 3;
+    }
 }
