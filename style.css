@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-size: 10px;
     scroll-behavior: smooth;
-    overflow-x: hidden;
 }
 
 body{
@@ -149,6 +148,7 @@ body{
 
 .header{
     display: flex;
+    position: relative;
     justify-content: space-between;
     align-items: center;
     background-color: #fdf2e9;
