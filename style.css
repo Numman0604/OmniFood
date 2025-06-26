@@ -193,6 +193,7 @@ body{
     border: none;
     background: none;
     cursor: pointer;
+    display: none;
 }
 
 .mobile-icon{
