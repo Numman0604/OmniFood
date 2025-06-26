@@ -195,6 +195,10 @@ body{
     cursor: pointer;
 }
 
+.mobile-icon{
+    height: 4.8rem;
+}
+
 /* Hero Section */
 
 .section-hero{
