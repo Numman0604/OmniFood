@@ -133,8 +133,8 @@
     }
 
     .mobile-icon[name="close-outline"]{
-    display: none;
-}
+    display: block;
+    }
 
     .main-nav-list{
         flex-direction: column;
