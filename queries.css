@@ -109,4 +109,11 @@
     .btn-mobile{
         display: block;
     }
+
+    .main-nav{
+        background-color: aqua;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
 }
