@@ -189,6 +189,12 @@ body{
     background-color: #cf711f;
 }
 
+.btn-mobile{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
 /* Hero Section */
 
 .section-hero{
