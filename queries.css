@@ -173,4 +173,8 @@
     .grid-footer{
         grid-template-columns: repeat(3,1fr);
     }
+
+    .nav-col{
+        grid-row: 1;
+    }
 }
