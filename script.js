@@ -24,6 +24,8 @@ allLinks.forEach(function(link){
   })
 })
 
+// scroll back to top
+
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
 function checkFlexGap() {
