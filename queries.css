@@ -229,4 +229,8 @@
     .step-img-box{
         transform: translateY(24px);
     }
+
+    .testimonials{
+        grid-template-columns: 1fr;
+    }
 }
