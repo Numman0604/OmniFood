@@ -196,4 +196,9 @@
     .grid-2-cols,.grid-3-cols,.grid-4-cols{
         grid-template-columns: 1fr;
     }
+
+    .hero{
+        padding: 0 3.2rem;
+
+    }
 }
