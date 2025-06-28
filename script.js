@@ -26,11 +26,13 @@ allLinks.forEach(function(link){
       behavior: "smooth",
     });
 
-    if(href !== "#" && href.startsWith("#"))
+    if(href !== "#" && href.startsWith("#")){
+      const sectionEl = document.querySelector(href);
+      sectionEl.scrollIntoView({behavior:"smooth"})
+    } 
   })
 })
 
-// scroll back to top
 
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
