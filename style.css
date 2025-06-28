@@ -159,6 +159,14 @@ body{
     padding: 0 48px;
 }
 
+.sticky{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+}
+
 .logo1{
     height: 2.2rem;
 }
