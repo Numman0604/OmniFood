@@ -244,6 +244,9 @@
     }
 
     .cta-img-box{
-        height: 36rem;
+        height: 62rem;
+        width: 44rem;
+        grid-row: 1;
     }
+
 }
