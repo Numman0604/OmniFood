@@ -244,8 +244,7 @@
     }
 
     .cta-img-box{
-        height: 62rem;
-        width: 44rem;
+        height: 32rem;
         grid-row: 1;
         margin-bottom: -2rem;
     }
@@ -254,4 +253,7 @@
         padding: 3.2rem;
     }
 
+    .nav-col{
+        display: none;
+    }
 }
