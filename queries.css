@@ -247,6 +247,11 @@
         height: 62rem;
         width: 44rem;
         grid-row: 1;
+        margin-bottom: -2rem;
+    }
+
+    .cta-text-box{
+        padding: 3.2rem;
     }
 
 }
