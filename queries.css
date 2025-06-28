@@ -186,3 +186,9 @@
         grid-row: 1;
 }
 }
+
+@media(max-width: 34em){
+    .grid-3-cols,.grid-4-cols,.grid-5-cols{
+        grid-template-columns: 1fr;
+    }
+}
