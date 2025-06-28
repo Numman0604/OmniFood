@@ -8,7 +8,7 @@ yearEl.textContent = currentYear;
 // Make Mobile Nav Work
 
 const btnNav = document.querySelector(".btn-mobile");
-const headerEl = document.querySelector(".header")
+const headerEl = document.querySelector(".header");
 
 
 ///////////////////////////////////////////////////////////
