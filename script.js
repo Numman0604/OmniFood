@@ -7,6 +7,8 @@ yearEl.textContent = currentYear;
 
 // Make Mobile Nav Work
 
+const btnNav = document.querySelector(".btn-mobile");
+
 
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
