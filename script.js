@@ -14,6 +14,8 @@ btnNavEl.addEventListener('click',function(){
   headerEl.classList.toggle("nav-open");
 })
 
+// Srolling smooth animation
+
 
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
