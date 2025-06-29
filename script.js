@@ -44,11 +44,12 @@ const obs = new IntersectionObserver(
     const ent = entries[0];
     console.log(ent);
     if (ent.isIntersecting === false)
-      document.querySelector(".header").classList.add("sticky");
+      document.body.classList.add("sticky");
   },
   {
     root: null,
     threshold: 0,
+    rootMargin: '-80px',
   }
 );
 obs.observe(sectionHeroEl);
