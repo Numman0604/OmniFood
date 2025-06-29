@@ -173,6 +173,10 @@ body{
     box-shadow: 0 1.2rem 3.2rem rgb(0, 0, 0,0.03);
 }
 
+.sticky .section-hero{
+    margin-top: 9.6rem;
+}
+
 .logo1{
     height: 2.2rem;
 }
@@ -225,9 +229,7 @@ body{
     display: none;
 }
 
-.section-hero{
-    margin-top: 9.6rem;
-}
+
 
 /* Hero Section */
 
